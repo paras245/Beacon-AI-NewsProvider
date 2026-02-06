@@ -1,10 +1,3 @@
-Nice, this deserves a **clean, proud README** 😌
-Here’s a **ready-to-drop `README.md`** with emojis, clear steps, and proper credit to you.
-
-You can copy-paste this directly.
-
----
-
 # 🤖✨ Good News by Place & Time
 
 An **AI-powered frontend platform** that delivers **positive news** based on a **selected location 📍 and year 🕰️**.
