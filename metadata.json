@@ -1,0 +1,7 @@
+{
+  "name": "Beacon: The Good News Explorer",
+  "description": "An interactive map-based explorer to discover positive historical events and verified good news from any place and any year, powered by Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
